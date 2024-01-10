@@ -1,6 +1,6 @@
 # Inleiding
-welkom in mijn portfolio
-hierin staat de reis die ik maak door de graduaat in systeem- en netwerk beheer (tenminste alles dat ik zie tijdens werkplekleren)
+Ik ben Nic Ik studeer de graduaat systeem en netwerkbeheer
+In deze portfolio zal ik mijn leerervaringen en -resultaten tijdens werkplekleren 1 documenteren. Ik zal hierbij gebruik maken van reflecties. Een reflectie is een manier om je leerproces te evalueren. Je reflecteert op je ervaringen, je leert ervan en je stelt je doelen voor de toekomst.werkplekleren)
 # persoonlijke info
 naam: nic de ceuster
 
