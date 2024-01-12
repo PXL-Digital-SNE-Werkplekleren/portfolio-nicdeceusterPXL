@@ -22,6 +22,11 @@ opdracht= bereid een config file voor om een switch en router gemakelijk in te s
 ### 7 powerapps
 opdracht= maak een app waarin je kan zoeken naar OLR's kan zoeken met trefwoorden.
 
+### Reflectie en Resultaten
+ik ben nooit goed geweest in reflecties dit valt mischien op in mijn resultaten. maar zolang ik mijn volle 100% geef haal ik meestal een niet zo slecht resultaat hierop.
+aan mijn resultaten valt vooral op dat ik moeite heb met grote stukken theorie en zelfreflectie.
+![](../images/resultatenpng.png)
+
 ## Opdrachten WPL 2
 
 ## Opdrachten WPL 3
