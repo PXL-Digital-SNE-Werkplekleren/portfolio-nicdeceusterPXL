@@ -66,21 +66,20 @@ Niels toonde dat IT toegankelijk is voor iedereen, ongeacht zijn achtergrond. Hi
 #### vibe group
 Persoonlijk snapte ik niet waarom deze gastsprekers kwamen buiten al wat recruiten en hun bekend maken voor ons hebben ze niet veel gedaan.
 #### medestudenten
-Eerst snapte ik niet waarom deze medestudenten kwamen als gastsprekers. Ik had vragen zoals wat kennen ze ervan en als ze het kunnen waarom zitte ze dan hier maar uiteindelijk snapte ik waarom ze lieten zien dat 
+Eerst snapte ik niet waarom deze medestudenten kwamen als gastsprekers. Ik had vragen zoals wat kennen ze ervan en als ze het kunnen waarom zitten ze dan hier, maar uiteindelijk snapte ik waarom ze lieten zien dat 
 
 ### slotevaluatie
 
 #### Wat weet je al over de soort van job die je later wil uitoefenen?
-ik ben nog niet 100% zeker over wat ik wil doen maar ik heb wel een voorkeur voor een kleiner bedrijf tegenover een groter
+Ik ben nog niet 100% zeker over wat ik wil doen, maar ik heb wel een voorkeur voor een kleiner bedrijf tegenover een groter
 #### Waarover zou je nog wel een gastseminarie willen tijdens WPL2?
 
 #### Welk inzicht heeft WPL1 jou gebracht?
-wat wpl mij heeft geleert zijn 2 dingen:
+Wat wpl mij heeft geleerd zijn 2 dingen:
  - ik ben slecht in zelfreflectie
- - iedere persoon is anders we hebbe allemaal andere voor- en nadelen we hebben ook een andere voorkeur dit betekent niet dat ik ga moeten concureren maar dat ik ook kan samenwerken met mijn medestudenten
+ - iedere persoon is anders, we hebben allemaal andere voor- en nadelen, we hebben ook een andere voorkeur, dit betekent niet dat ik ga moeten concurreren, maar dat ik ook kan samenwerken met mijn medestudenten
 #### Wat hoop je in WPL2 te leren en ontdekken? Wat zijn je voornemens?
-ik kijk er naar uit om te zien hoe ik met andere werk en ik vraag me af of de groepen willeeurig zijn of dat we die zelf mogen kiezen 
-
+Ik kijk er naar uit om te zien hoe ik met andere werk en ik vraag me af of de groepen willekeurig zijn of dat we die zelf mogen kiezen 
 
 ## Reflectie WPL 2
 

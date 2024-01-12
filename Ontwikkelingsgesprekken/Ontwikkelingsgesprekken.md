@@ -104,35 +104,45 @@ Enkele belangrijke leermomenten van wpl1 waren:
     - Ik heb geleerd hoe ik een Linux-distributie (Oracle Linux) installeer en configureer.
     - Ik heb ook geleerd hoe ik de basistaken uitvoer in een Linux-omgeving, zoals het maken van bestanden en mappen, het installeren van programma's en het configureren van       netwerkinstellingen.
 
+### Mijn evolutie tijdens WPL1
+
+Enkele belangrijke leermomenten van wpl1 waren:
+
+- Talstelsels
+    Ik heb geleerd hoe binair, hexadecimaal en octaal rekenen werken. Deze kennis is essentieel voor het begrijpen van hoe computers werken.
+- Linux
+    - Ik heb geleerd hoe ik een Linuxdistributie (Oracle Linux) installeer en configureer.
+    - Ik heb ook geleerd hoe ik de basistaken uitvoer in een Linux-omgeving, zoals het maken van bestanden en mappen, het installeren van programma's en het configureren van       netwerkinstellingen.
+
 ### Mijn technische skills:
 
 - Linux:
-    Ik heb een basiskennis van Linux, met name van Oracle Linux. Ik kan de basistaken uitvoeren in een Linux-omgeving, zoals het maken van bestanden en mappen, het installeren van programma's en het configureren van netwerkinstellingen.
-    Ik heb nog wat problemen tijdens de opdracht en tijdens de les Linux essentials, maar ik ben ervan overtuigd dat ik deze problemen kan overwinnen met meer oefening.
+    Ik heb een basiskennis van Linux, met name van Oracle Linux. Ik kan de basistaken uitvoeren in een Linux-omgeving, zoals het maken van bestanden en mappen, het installeren van programma's en het configureren van netwerkinstellingen.
+    Ik heb nog wat problemen tijdens de opdracht en tijdens de les Linux essentials, maar ik ben ervan overtuigd dat ik deze problemen kan overwinnen met meer oefening.
 - Python
-    Ik heb een basiskennis van Python. Ik kan kleine programma's schrijven, zoals scripts om taken te automatiseren of om gegevens te verwerken.
-    Ik wil mijn kennis van Python uitbreiden door meer te oefenen en door online cursussen en tutorials te volgen.
+    Ik heb een basiskennis van Python. Ik kan kleine programma's schrijven, zoals scripts om taken te automatiseren of om gegevens te verwerken.
+    Ik wil mijn kennis van Python uitbreiden door meer te oefenen en door online cursussen en tutorials te volgen.
 
 ### mijn soft skills 
 
 - klantengerichtheid
-    ik doe altijd mijn best om anderen tevreden te maken.
-    
+    ik doe altijd mijn best om anderen tevreden te maken.
+    
 - leerbereidheid
-    ik ben bereid om te leren. meer kenis kan nooit kwaad.
+    ik ben bereid om te leren. Meer kennis kan nooit kwaad.
 
 - flexibiliteit
-    ik kan me vaak aanpassen aan de situatie.
+    ik kan me vaak aanpassen aan de situatie.
 
 ### mijn werkpunten
 
-- uitstelgedrag (later afwerken)
+- uitstelgedrag
 
 - zelfreflectie
-    ik ben al heel lang slecht in zelfreflectie ik heb moeite met mijn gedachten om te zetten in woorden.
+    ik ben al heel lang slecht in zelfreflectie, ik heb moeite met mijn gedachten om te zetten in woorden.
 
 - samenwerken
-    waneer ik samen werk in een groep dan laat ik vaak nietveel van mijzelf horen ik verwacht dat iemand anders de leiding pakt en dat ik een rol krijg in de groep en dan hou ik mij tot die rol meer doe ik niet.
+    Wanneer ik samen werk in een groep dan laat ik vaak niet veel van mijzelf horen. Ik verwacht dat iemand anders de leiding pakt en dat ik een rol krijg in de groep en dan hou ik mij tot die rol meer doe ik niet.
 
 ## Overzicht ontwikkelingsgesprekken WPL 2
 
