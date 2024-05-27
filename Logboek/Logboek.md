@@ -399,30 +399,182 @@
       </td>
     </tr>
     <tr>
-      <th rowspan="8" style="width: 100px;"> Week 8 </th>
-      <td style="width: 160px;"> 3 april 2024 </td>
-      <td style="width: 100px;"> Les 15 </td>
+      <th rowspan="6" style="width: 100px;">Sprint 4</th>
+      <td style="width: 160px;">17 april 2024</td>
+      <td style="width: 100px;">vm</td>
       <td style="width: 350px;">
-        Daily standups (08u30-12u00)<br>
-        Technische opdrachten (08u30-12u00)<br>
-        SDG's workshop (08u30-12u00)<br>
-        Technische opdrachten (13u00-16u30)
+        **Sprintplanning: uitleg sprint 4** (08u30-12u00) - Explanation of Sprint 4 planning.<br>
+        **Opgave Sprint 4 - Week 08 & 09 & 10** - Task assignments for Weeks 08, 09, and 10.
       </td>
     </tr>
     <tr>
-      <td style="width: 160px;"> 4 april 2024 </td>
-      <td style="width: 100px;"> Les 16 </td>
+      <td>17 april 2024</td>
+      <td>nam</td>
+      <td>
+        **Technische opdrachten** (13u00-16u30) - Technical assignments.<br>
+        **Evaluaties sprint 3** - Evaluation of Sprint 3.
+      </td>
+    </tr>
+    <tr>
+      <td>18 april 2024</td>
+      <td>vm</td>
+      <td>
+        **Technische opdrachten** (08u30-12u00) - Technical assignments.<br>
+        **Evaluaties sprint 3** - Evaluation of Sprint 3.
+      </td>
+    </tr>
+    <tr>
+      <th rowspan="5">Week 9</th>
+      <td>24 april 2024</td>
+      <td>vm</td>
+      <td>
+        **Daily standups** (08u30-12u00) - Daily team standups.<br>
+        **Technische opdrachten** - Technical assignments.
+      </td>
+    </tr>
+    <tr>
+      <td>24 april 2024</td>
+      <td>nam</td>
+      <td>
+        **Oplevering Cisco opdracht via een presentatie/demo on campus (planning volgt)** (13u00-16u30) - Presentation/demo of Cisco assignment on campus (schedule to follow).
+      </td>
+    </tr>
+    <tr>
+      <td>25 april 2024</td>
+      <td>vm</td>
+      <td>
+        **Daily standups** (08u30-12u00) - Daily team standups.<br>
+        **Technische opdrachten** - Technical assignments.<br>
+        **Oplevering Cisco opdracht via een presentatie/demo on campus (planning volgt)** - Presentation/demo of Cisco assignment on campus (schedule to follow).
+      </td>
+    </tr>
+    <tr>
+      <th rowspan="3">Week 10</th>
+      <td>1 mei 2024</td>
+      <td>vm</td>
+      <td>
+        **Dag van de Arbeid - Geen les** (08u30-12u00) - Labor Day, no classes.
+      </td>
+    </tr>
+    <tr>
+      <td>1 mei 2024</td>
+      <td>nam</td>
+      <td>
+        **Dag van de Arbeid - Geen les** (13u00-16u30) - Labor Day, no classes.
+      </td>
+    </tr>
+    <tr>
+      <td>2 mei 2024</td>
+      <td>vm</td>
+      <td>
+        **Sprint review en retrospectives, logboek afwerken** (08u30-12u00) - Sprint review and retrospectives, finalize logbook.<br>
+        **Opleveren van het opleverdocument tegen zondag 23u59** - Submission of the delivery document by Sunday, 23:59.
+      </td>
+    </tr>
+    <tr>
+      <th rowspan="6" style="width: 100px;">Sprint 5</th>
+      <td style="width: 160px;">8 mei 2024</td>
+      <td style="width: 100px;">vm</td>
       <td style="width: 350px;">
-        Daily standups (08u30-12u00)<br>
-        Technische opdrachten (08u30-12u00)<br>
-        SDG's workshop (08u30-12u00)<br>
-        Technische opdrachten (13u00-16u30)<br>
-        Sprint review en retrospectives (13u00-16u30)<br>
-        Opleveren van het opleverdocument tegen zondag 23u59
+        **Sprintplanning: uitleg sprint 5** (08u30-12u00) - Explanation of Sprint 5 planning.<br>
+        **Evaluaties sprint 4** - Evaluation of Sprint 4.<br>
+        **Technische opdrachten mondeling toegelicht. Document volgt later.** - Oral explanation of technical assignments. Document to follow.
+      </td>
+    </tr>
+    <tr>
+      <td>8 mei 2024</td>
+      <td>nam</td>
+      <td>
+        **Opgave Sprint 5 - Week 11 & 12 & 13** (13u00-16u30) - Task assignments for Weeks 11, 12, and 13.
+      </td>
+    </tr>
+    <tr>
+      <td>9 mei 2024</td>
+      <td>vm</td>
+      <td>
+        **OLH Hemelvaart - Geen les** (08u30-12u00) - Ascension Day, no classes.
+      </td>
+    </tr>
+    <tr>
+      <th rowspan="4">Week 12</th>
+      <td>15 mei 2024</td>
+      <td>vm</td>
+      <td>
+        **Daily standups** (08u30-12u00) - Daily team standups.<br>
+        **Technische opdrachten** - Technical assignments.
+      </td>
+    </tr>
+    <tr>
+      <td>15 mei 2024</td>
+      <td>nam</td>
+      <td>
+        **Daily standups** (13u00-16u30) - Daily team standups.
+      </td>
+    </tr>
+    <tr>
+      <td>16 mei 2024</td>
+      <td>vm</td>
+      <td>
+        **Technische opdrachten** (08u30-12u00) - Technical assignments.
+      </td>
+    </tr>
+    <tr>
+      <td>16 mei 2024</td>
+      <td>avond</td>
+      <td>
+        **Handshake Event** (17u45-20u00) - Mandatory attendance! Event at PXL-NeXt Binnenstraat. Bring student ID, dress appropriately, and engage in conversations with at least 3 companies.
+      </td>
+    </tr>
+    <tr>
+      <th rowspan="4">Week 13</th>
+      <td>22 mei 2024</td>
+      <td>vm</td>
+      <td>
+        **Uitleg richtlijnen eindpresentaties + uurschema eindpresentaties** (08u30-12u00) - Explanation of final presentation guidelines and schedule.<br>
+        **Sprint afwerken** - Complete the sprint.
+      </td>
+    </tr>
+    <tr>
+      <td>22 mei 2024</td>
+      <td>nam</td>
+      <td>
+        **Sprint afwerken en voorbereiding eindpresentaties / portfolio** (13u00-16u30) - Complete the sprint and prepare final presentations/portfolio.
+      </td>
+    </tr>
+    <tr>
+      <td>23 mei 2024</td>
+      <td>vm</td>
+      <td>
+        **Voorbereiding eindpresentaties in team** (08u30-12u00) - Team preparation for final presentations.<br>
+        **Opleveren van het opleverdocument tegen zondag 26 mei 23:59** - Submit delivery document by Sunday, May 26, 23:59.<br>
+        **Inleveren van de jury-presentatie en je portfolio: dinsdag 28 mei 23:59** - Submit jury presentation and portfolio by Tuesday, May 28, 23:59.
+      </td>
+    </tr>
+    <tr>
+      <th rowspan="3" style="width: 100px;">Afsluiting</th>
+      <td style="width: 160px;">29 mei 2024</td>
+      <td style="width: 100px;">vm</td>
+      <td style="width: 350px;">
+        **Evaluatie van Sprint 5 - Eindpresentaties** (08u30-12u00) - Evaluation of Sprint 5, final presentations.
+      </td>
+    </tr>
+    <tr>
+      <td>29 mei 2024</td>
+      <td>nam</td>
+      <td>
+        **Eindpresentaties** (13u00-16u30) - Final presentations.
+      </td>
+    </tr>
+    <tr>
+      <td>30 mei 2024</td>
+      <td>vm</td>
+      <td>
+        **Eindpresentaties** (08u30-12u00) - Final presentations.
       </td>
     </tr>
   </tbody>
 </table>
+
 
 ## Logboek WPL 3
 
