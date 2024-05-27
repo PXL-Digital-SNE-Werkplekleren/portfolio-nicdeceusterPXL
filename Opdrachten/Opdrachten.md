@@ -29,6 +29,11 @@ aan mijn resultaten valt vooral op dat ik moeite heb met grote stukken theorie e
 
 ## Opdrachten WPL 2
 
+### sprint 1 (solo)
+in deze sprint leerden we kennis maken met AWS en gebruikten we het om een web server te hosten eerst in nginx en vervolgens in apache (we gebruikte ubuntu als operating system).
+
+### sprint 2 - 5 (groep)
+in deze opdracht moesten we een schoolomgeving simuleren. hiervoor gebruikten we vshpere. we werkte in de scrum methode met elke les een daily standup en elke 2 - 3 weken het einde van de sprint
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4

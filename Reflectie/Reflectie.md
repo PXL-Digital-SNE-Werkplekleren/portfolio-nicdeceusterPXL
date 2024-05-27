@@ -83,6 +83,15 @@ Ik kijk er naar uit om te zien hoe ik met andere werk en ik vraag me af of de gr
 
 ## Reflectie WPL 2
 
+### groepwerk/project
+tijdens wpl 2 hebben wij grotendeels gewerkt aan een groepsproject om het systeem van een school omgeving te simuleren.
+hieruit heb ik een twee dingen geleerd, teneerste ik heb een klein probleem met uitstelgedrag waardoor ik vaar problemen had met deadlines en ik heb ook een gebrek aan comunicatie vaardigheden met mijn team in plaats van problemen duidelijk te maken bij de daily standups koos ik vaak om deze zelf op te lossen hoewel dit tot nu toe geen probleem heeft veroorzaak kan het we problematish worden.
+
+### handschake-event
+we hadden ook een handshake event hier moest je jezelf voorstellen aan een paar bedrijven voor een kans te maken op een stageplek voor wpl3&4. hoewel ik hier in het begin moeite mee had begon het wel beter te gaan na het derde bedrijf dat ik bijstond. er waren ook veel interesante bedrijven bij dit evenement hopelijk dat er eentje mij wilt als stagair.
+
+
+
 ## Reflectie WPL 3
 
 ## Reflectie WPL 4
