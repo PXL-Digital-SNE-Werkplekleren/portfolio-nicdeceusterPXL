@@ -35,7 +35,7 @@ in deze sprint leerden we kennis maken met AWS en gebruikten we het om een web s
 ### sprint 2 - 5 (groep)
 in deze opdracht moesten we een schoolomgeving simuleren. hiervoor gebruikten we vshpere. we werkte in de scrum methode met elke les een daily standup en elke 2 - 3 weken het einde van de sprint.
 
-[hier wat extra info over een paar opdrachtjes](../images/wpl2.pdf)
+[hier wat extra info over een paar opdrachtjes](https://drive.google.com/file/d/1LxY5rdfLaoByXsMSrHCjfFkVlByaL1JB/view?usp=sharing)
 
 
 
