@@ -580,6 +580,6 @@
 
 Tijdens mijn stage ben ik in contact gekomen met een brede waaier aan taken. Ik heb gewerkt aan firewall- en VPN-configuratie, support calls voor uiteenlopende problemen zoals printerinstallaties, netwerkfouten en applicatiecrashes, en klantenbezoeken waarbij ik mee op locatie ging. Daarnaast heb ik een volledig boekingssysteem uitgebouwd voor een klant via WordPress, van de eerste demo tot de finale oplevering. Dit project omvatte onder andere plugin-configuratie, kalenderintegratie, SMTP-instelling, CSS-aanpassingen en het oplossen van bugs rond overlappende boekingen. Ik heb ook gewerkt met M365-omgevingen, zoals het beheren van kalenderrechten, licenties en mailadressen, en ben aan het einde van de stage betrokken geweest bij de documentatie en eindpresentatie van het project.
 
-<iframe src="../images/WPL3Logboek.pdf" width="100%" height="800px" style="border:none;"></iframe>
+<iframe src="/portfolio-nicdeceusterPXL/images/WPL3Logboek.pdf" width="100%" height="800px" style="border:none;"></iframe>
 
 ## Logboek WPL4
