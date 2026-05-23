@@ -40,5 +40,20 @@ in deze opdracht moesten we een schoolomgeving simuleren. hiervoor gebruikten we
 
 
 ## Opdrachten WPL 3
+ 
+ 
+### Pitch
+ 
+<iframe src="../images/WPL3-Pitch_NicDeCeuster.pdf" width="100%" height="800px" style="border:none;"></iframe>
+
+ 
+### Opdracht Probleemsituatie en advies
+ 
+<iframe src="../images/WPL3-Probleemsituatie_NicDeCeuster.pdf" width="100%" height="800px" style="border:none;"></iframe>
+
+ 
+### Opdracht Werkkwaliteiten
+ 
+<iframe src="../images/WPL3-Werkkwaliteiten_NicDeCeuster.pdf" width="100%" height="800px" style="border:none;"></iframe>
 
 ## Opdrachten WPL 4

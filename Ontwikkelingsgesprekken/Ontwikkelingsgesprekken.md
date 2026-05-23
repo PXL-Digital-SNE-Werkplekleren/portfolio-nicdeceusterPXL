@@ -181,4 +181,15 @@ Enkele belangrijke leermomenten van wpl1 waren:
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
+### Mijn evolutie tijdens WPL3
+
+Tijdens mijn stage heb ik de kans gekregen om zowel technisch als professioneel bij te leren. Op technisch vlak heb ik gewerkt met firewalls, VPN-configuratie, M365-omgevingen en WordPress. Vooral het boekingssysteem dat ik van begin tot einde heb uitgebouwd heeft me veel geleerd — van plugin-configuratie en SMTP-integratie tot CSS en het vertalen van hardcoded labels. Ik heb ook praktische ervaring opgedaan met support en troubleshooting, zoals printerinstallaties, netwerkproblemen en OneDrive-synchronisatie.
+
+Op vlak van soft skills heb ik gemerkt dat mijn doorzettingsvermogen een sterkte is. Wanneer een tool niet werkte of een oplossing mislukte, zocht ik verder en probeerde ik een alternatieve aanpak. Ik heb ook geleerd hoe je omgaat met klanten in een professionele context, wat anders is dan wat je op school gewend bent.
+
+Een werkpunt dat duidelijk naar boven is gekomen, is proactief hulp vragen. Ik heb de neiging om te lang zelfstandig te blijven zoeken terwijl ik sneller een collega zou moeten aanspreken. Daarnaast heb ik feedback gekregen over hoe ik omga met bepaalde klantsituaties, wat me bewust heeft gemaakt van wanneer je iets zelfstandig aanpakt en wanneer je iemand betrekt. Over het geheel genomen heeft deze stage me een duidelijk beeld gegeven van waar ik sta en wat ik nog wil ontwikkelen in WPL4.
+
+<iframe src="../images/WPL3-EG_NicDeCeuster.pdf" width="100%" height="800px" style="border:none;"></iframe>
+
+
 ## Overzicht ontwikkelingsgesprekken WPL 4

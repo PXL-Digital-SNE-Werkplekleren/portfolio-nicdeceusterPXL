@@ -98,4 +98,12 @@ we hadden ook een handshake event hier moest je jezelf voorstellen aan een paar 
 
 ## Reflectie WPL 3
 
+Tijdens mijn stage heb ik gewerkt aan een grote variëteit aan taken, van firewall- en VPN-configuratie tot support calls en klantenbezoeken. Het grootste project was het uitwerken van een volledig boekingssysteem voor een klant via WordPress, waarbij ik van het begin tot het einde betrokken was — van opzoekwerk en demo's tot bugfixes, SMTP-configuratie en een finale oplevering. Dat het systeem uiteindelijk werd opgeleverd aan de klant geeft me een gevoel van voldoening.
+
+De samenwerking met mijn werkplekcoach en collega's verliep goed. Er was ruimte voor vragen en ik werd regelmatig meegenomen in nieuwe taken. Toch merkte ik dat ik het soms moeilijk vond om proactief hulp te vragen, iets wat ik in WPL4 wil verbeteren door sneller aan te geven waar ik vastloop.
+
+Wat moeilijk ging, was de technische breedte van de taken. Netwerken, firewall-regels, cloud telefonie, M365 — de kennis die daarvoor nodig is, was soms groter dan wat ik had. Mijn eerste support call liep niet goed af door een gebrek aan kennis, en dat was een confronterende maar leerzame ervaring. Ik kreeg ook feedback dat ik voorzichtiger moest omgaan met bepaalde klanten, wat mij heeft doen nadenken over mijn aanpak.
+
+Voor WPL4 wil ik mijn technische basis rond netwerken en cloudomgevingen verder uitbouwen en meer durven vragen wanneer ik iets niet weet. Er is nog veel te leren en dat motiveert me.
+
 ## Reflectie WPL 4
